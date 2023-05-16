@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there the name is Jeko Jelev 👋
+I'm currently learning python.
 
 <!--
 **jeki4a/jeki4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
