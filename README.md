@@ -1,4 +1,3 @@
-### Hello my name is Jeko Jelev 
 I'm good with python.
 
 <!--
