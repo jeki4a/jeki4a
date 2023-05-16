@@ -1,4 +1,4 @@
-I'm good with python.
+Experienced with python.
 
 <!--
 **jeki4a/jeki4a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
