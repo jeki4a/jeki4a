@@ -1,4 +1,4 @@
-### Hello my name is Jeko Jelev 👋
+### Hello my name is Jeko Jelev 
 
 
 <!--
